@@ -8,6 +8,7 @@ body {
     background-color: #f0f4f8;
     color: #333;
 }
+
 .container {
     background-color: #fff;
     padding: 30px 40px;
@@ -15,7 +16,6 @@ body {
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
-
 
 .timer-controls {
     margin-bottom: 20px;

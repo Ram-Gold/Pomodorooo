@@ -35,6 +35,7 @@ document.getElementById("longBreak").addEventListener("click", function () {
     currentTimer = long
 })
 
+
 function startTimer(timerdisplay) {
     if (myInterval) {
         clearInterval(myInterval);
